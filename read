@@ -1,0 +1,19 @@
+Project name:	Tick Tack Toe
+Developed by:	Nkosinathi Mothoa
+Email:			nmothoa360@gmail.com
+Year:			2016
+Tools:			IntelliJ 2015
+Dependencies:	JDK 1.7/1.8
+
+This is a linux terminal based tick-tack-toe game which has both PvP (Player vs Player) and PvAI 
+(Player vs CPU) modes.
+
+Run:	Use the provided "makefile" file to: 
+					compile:	$make [Enter]
+					run:		$make run [Enter]
+					clean:		$make clean [Enter]
+					
+Program input:	Input should be in the form <X>SPACE<Y> [Enter], where X and Y are in the
+				interval [1,3].
+				
+				X - row		Y - column
